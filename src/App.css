@@ -1,0 +1,12 @@
+body {
+  background-image: url("./img/bg-chat-app.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #89ac7a;
+  align-items: center;
+  justify-content: center;
+}
